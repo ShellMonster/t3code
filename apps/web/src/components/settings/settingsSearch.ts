@@ -116,7 +116,7 @@ export const SETTINGS_SECTION_LABELS: Readonly<Record<SettingsPath, string>> = {
   "/settings/labs": msg("Labs"),
   "/settings/about": msg("About"),
   "/settings/voice": msg("Voice"),
-  "/settings/archived": msg("Archive"),
+  "/settings/archived": msg("Archived threads"),
 };
 
 /** Sidebar labels; an entry of its own lets a translator shorten one below its page title. */
